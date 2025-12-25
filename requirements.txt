@@ -83,3 +83,5 @@ urllib3==2.6.0
 uvicorn==0.38.0
 watchdog==6.0.0
 yarl==1.22.0
+fastf1
+matplotlib
